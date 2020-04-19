@@ -27,6 +27,8 @@ html, body {
 .header{
     margin-top: 1rem;
     margin-bottom: 0.25rem;
+    padding-right: 0px;
+    padding-left: 0px;
 }
 
 .display-4{
@@ -45,6 +47,10 @@ html, body {
 }
 
 /* navbar */
+.navmenu{
+    padding-right: 0px;
+    padding-left: 0px;
+}
 .menu-ht{
     background-color: white;
 }
@@ -110,6 +116,7 @@ html, body {
     color: #3d3d3d;
     background-color: #ffda67;
     border-color: #ffda67;
+    margin-left: 0.25rem;
 }
 
 .btn-inquiry:hover{
@@ -209,8 +216,8 @@ html, body {
     display: inline-block;
     margin-top: 10px; 
     border-top: 6rem solid #ffda67;
-    border-right: 15rem solid #3d3d3d;
-    border-left: 15rem solid #3d3d3d;
+    border-right: 11.25rem solid #3d3d3d;
+    border-left: 11.25rem solid #3d3d3d;
 }
 
 /* famous quote */
@@ -267,9 +274,14 @@ html, body {
 }
 
 /* footer */
-.footer{
+.signature-wrap{
     background-color: #3d3d3d;
-    height: 4rem;
+    height: 4.5rem;
+}
+
+.signature{
+    padding-right: 0px;
+    padding-left: 0px;
 }
 
 .footer-block{
