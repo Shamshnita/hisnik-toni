@@ -31,6 +31,10 @@ html, body {
     padding-left: 0px;
 }
 
+.header-tel {
+    text-align: right;
+}
+
 .display-4{
     font-size: 1.5rem;
 }
