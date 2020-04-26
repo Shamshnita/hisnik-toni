@@ -220,8 +220,8 @@ html, body {
     display: inline-block;
     margin-top: 10px; 
     border-top: 6rem solid #ffda67;
-    border-right: 11.25rem solid #3d3d3d;
-    border-left: 11.25rem solid #3d3d3d;
+    border-right: 10rem solid #3d3d3d;
+    border-left: 10rem solid #3d3d3d;
 }
 
 /* famous quote */
